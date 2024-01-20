@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "p-limit": "4.0.0",
+    "readline-sync": "1.4.10"
+  },
+  "name": "accounts-audit---refactor",
+  "description": "## Description The tool gathers data on local account statuses across all computers on a given server. It generates informative CSV reports detailing user account types (standard, admin, \"backdoor admin\"), FileVault status, account distributions, and their associations with specific computers. Its behavior is read-only and makes no alterations to any data.",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
